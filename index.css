@@ -341,7 +341,7 @@ a{
 .top-navbar #dropdown .li-dropdown{
     padding-bottom: 15px;
     padding-right: 10px;
-    font-size: 14px;
+    font-size: 15px;
     min-width: 100%;
     padding-left: 0 !important;
 }
@@ -473,7 +473,7 @@ a{
 }
 .documentation .documentation-link p{
     margin:0;
-    font-size: 14px;
+    font-size: 15px;
     font-weight: lighter;
 }
 .documentation .badge-container{
@@ -1206,12 +1206,6 @@ input:checked + .slider:before {
         box-shadow: none;
         transition: 0s;
     }
-    /* .top-navbar .flex-navbar.responsive .menu-navbar li:hover #dropdown{    
-        visibility: visible;
-        opacity: 1;
-        transform: translateX(0) translateY(0);
-        -webkit-transform: translateX(0) translateY(0);
-    } */
     .top-navbar .flex-navbar.responsive .account ul.account{
         padding: 20px 0 !important;
     }
@@ -1241,19 +1235,6 @@ input:checked + .slider:before {
         transform: translateY(0);
         -webkit-transform: translateY(0);
     }
-    
-    /* .top-navbar .flex-navbar.responsive .menu-navbar .account .li-dropdown:hover #sub-dropdown{    
-        visibility: visible;
-        opacity: 1;
-        transform: translateY(10);
-        -webkit-transform: translateY(0);
-    } */
-    /* .top-navbar .flex-navbar.responsive .menu-navbar .account .li-dropdown:focus #sub-dropdown{    
-        visibility: visible;
-        opacity: 1;
-        transform: translateY(10);
-        -webkit-transform: translateY(0);
-    } */
     .top-navbar .flex-navbar.responsive .sub-menu{
         padding: 20px 0 !important;
     }
