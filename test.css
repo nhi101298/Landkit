@@ -1,9 +1,0 @@
-#main-menu > li:hover > a
-{
-  background-color: #F00;
-}
-
-#main-menu >  li > .submenu > li:hover
-{
-  background-color:#00F;
-}
