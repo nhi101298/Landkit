@@ -278,7 +278,7 @@ a{
 .top-navbar .container{
     display: flex;
     justify-content: space-between;
-    padding: 20px 20px;
+    padding: 25px 20px 20px;
     position: relative;
 }
 .top-navbar .logo{
@@ -578,7 +578,7 @@ a{
 }
 @media (max-width: 991.98px){
     h1{
-        font-size: 25px !important;
+        font-size: 24px !important;
     }
     .font-20-resize{
         font-size: 18px !important;
@@ -631,7 +631,7 @@ a{
     width: 129%;
 }
 .feature{
-    padding: 70px 0;
+    padding: 100px 0;
 }
 .feature p{
     color: #869ab8;
@@ -771,7 +771,7 @@ a{
     box-shadow: 25px 60px 125px -25px rgba(80,102,144,.1), 16px 40px 75px -40px rgba(0,0,0,.2);
 }
 @media (max-width: 991.98px){
-    .bootstrap .img-width-129{
+    .img-width-129{
         width: 150%;
     }
 }
